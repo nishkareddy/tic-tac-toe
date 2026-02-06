@@ -54,25 +54,4 @@ npm run preview
 - Vite
 - CSS3 (with animations and gradients)
 
-## Project Structure
 
-```
-my-app/
-├── src/
-│   ├── components/
-│   │   ├── Board.jsx
-│   │   ├── Board.css
-│   │   ├── Square.jsx
-│   │   ├── Square.css
-│   │   ├── GameStatus.jsx
-│   │   ├── GameStatus.css
-│   │   ├── ResetButton.jsx
-│   │   └── ResetButton.css
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-└── vite.config.js
-```
